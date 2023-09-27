@@ -1,0 +1,80 @@
+.menu{
+    text-align: center;
+    color: orange;
+    text-transform: capitalize;
+    font-family: 'online', sans-serif;
+    padding-top: 4px;
+    font-size: 30px;
+    cursor: pointer;
+    
+}
+hr { 
+        
+    color: orange;
+    height: 3px;
+    width: 50px;
+    background-color: orange;
+     
+  } 
+  .text-menu{
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    cursor: pointer;
+    
+  }
+
+.all{
+    background-image: url(.//7280.jpg);
+    height: 98vh;
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    
+    
+}
+img{
+    width: 55%;
+    height: 55%;
+}
+.square {
+    width: 50%;
+    margin: auto;
+    height: 300px;
+    background-color: white;
+    padding: 2%;
+
+}
+.table-container {
+    margin: 0 auto;
+
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+
+}
+
+td {
+    
+
+    text-align: center;
+
+}
+.down{
+    text-align: center;
+    text-underline-offset: 5;
+    padding: 2%;
+    color:green;
+}
+
+footer {
+    color: white;
+    text-align: center;
+    text-transform: capitalize;
+    font-family: 'online', sans-serif;
+        background-color: #24262b;
+        padding: 2.3%;
+        
+   }
